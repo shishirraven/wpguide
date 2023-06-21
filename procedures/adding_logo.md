@@ -1,7 +1,7 @@
 # Adding Logo to Wordpress Website. 
 
 ## Input. 
-1. Credentails 
+1. [ ] Credentails 
 2. Logo. 
 3. Logo Size 
 
