@@ -1,4 +1,4 @@
 # Procedure.
 
-1. [Adding a logo ](procedures/adding_logo.md)
-2. 
+1. [Login to admin ](procedures/login_to_admin.md)
+2. [Adding a logo ](procedures/adding_logo.md)
