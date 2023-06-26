@@ -11,4 +11,4 @@
 2. Find 95 avada theme listing gallery
 3. "Copy link address" from each cards,
 4. paste it in Spreadsheet "Avada Links" coloumn.
-5. [Create new Pre-Package theme](procedures/create_pre_package_theme.md)
+5. [Create new Pre-Package theme](create_pre_package_theme.md)
