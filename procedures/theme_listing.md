@@ -9,4 +9,6 @@
 
 1. Open given URL https://avada.com/prebuilt-websites/ in your browser
 2. Find 95 avada theme listing gallery
-3. "Copy link address" from each cards and paste it in Spreadsheet "Avada Links" coloumn.
+3. "Copy link address" from each cards,
+4. paste it in Spreadsheet "Avada Links" coloumn.
+5. [Create new Pre-Package theme](procedures/create_pre_package_theme.md)
