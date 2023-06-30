@@ -4,3 +4,4 @@
 2. [Adding a logo ](procedures/adding_logo.md)
 3. [Theme Listing ](procedures/theme_listing.md)
 4. [Make Inspirational Theme Color Palette ](procedures/inspirational_theme_color_palette.md)
+5. [Typography Styling ](procedures/typography-styling.md)
